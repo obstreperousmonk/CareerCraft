@@ -40,7 +40,7 @@ export default function RootLayout({ children }) {
                 <p className="text-sm">
                   Designed & developed by{" "}
                   <span className="text-blue-400 font-semibold">
-                    AKSHIT NAIR
+                    MANVENDRA SINGH
                   </span>{" "}
                   — AI-powered career guidance for the modern age.
                 </p>
